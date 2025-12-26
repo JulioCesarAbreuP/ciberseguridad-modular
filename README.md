@@ -41,3 +41,4 @@ Este glosario reúne definiciones arquitectónicas, propósitos funcionales, int
 - [Vulnerabilidad](vulnerabilidad.md)
 - [XDR](xdr.md)
 - [Zero Trust](zero-trust.md)
+Activar enlaces navegables en el indice del glosario
