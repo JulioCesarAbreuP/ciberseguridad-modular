@@ -1,21 +1,43 @@
-# ciberseguridad-modular
-Repositorio donde organizo mi aprendizaje en Ciberseguridad: módulos, glosarios y prácticas.
+# Glosario técnico de ciberseguridad
 
-# 🛡️ Proyecto de Ciberseguridad — Julio César Abreu
-
-Este repositorio es mi espacio de estudio y práctica en ciberseguridad.  
-Aquí organizo lo que voy aprendiendo, mis notas, mis glosarios y mis ejercicios.  
-El objetivo es avanzar de forma constante, clara y estructurada.
+Este glosario reúne definiciones arquitectónicas, propósitos funcionales, integraciones sistémicas y aforismos técnicos para consolidar comprensión y documentación modular.
 
 ---
 
-## 📚 Contenido del repositorio
+## Índice de conceptos
 
-### *1. Módulos de estudio*
-En cada módulo recopilo conceptos que voy aprendiendo, explicados de forma sencilla y práctica.
-
-Incluyen:
-- Resúmenes técnicos  
-- Ejemplos que me ayudan a entender  
-- Analogías que facilitan la memoria  
-- Referencias a estándares cuando corresponde
+- [ARP](arp.md)
+- [Autenticación](autenticacion.md)
+- [Autenticación continua](autenticacion-continua.md)
+- [Autorización](autorizacion.md)
+- [Cifrado asimétrico](cifrado-asimetrico.md)
+- [Cifrado simétrico](cifrado-simetrico.md)
+- [DHCP](dhcp.md)
+- [DNS](dns.md)
+- [EDR](edr.md)
+- [FIDO2](fido2.md)
+- [Firma digital](firma-digital.md)
+- [Hardening](hardening.md)
+- [Impacto](impacto.md)
+- [Microsegmentación](microsegmentacion.md)
+- [Mitigación](mitigacion.md)
+- [Modelo OSI](modelo-osi.md)
+- [Modelo TCP/IP](modelo-tcpip.md)
+- [NDR](ndr.md)
+- [OAuth 2.0](oauth2.md)
+- [OpenID Connect](openid-connect.md)
+- [OSINT](osint.md)
+- [PKI](pki.md)
+- [Probabilidad](probabilidad.md)
+- [Reconocimiento activo](reconocimiento-activo.md)
+- [Reconocimiento pasivo](reconocimiento-pasivo.md)
+- [Reverse Proxy](reverse-proxy.md)
+- [Riesgo](riesgo.md)
+- [Riesgo residual](riesgo-residual.md)
+- [Segmentación](segmentacion.md)
+- [SSO](sso.md)
+- [Subnetting](subnetting.md)
+- [Tokenización](tokenizacion.md)
+- [Vulnerabilidad](vulnerabilidad.md)
+- [XDR](xdr.md)
+- [Zero Trust](zero-trust.md)
