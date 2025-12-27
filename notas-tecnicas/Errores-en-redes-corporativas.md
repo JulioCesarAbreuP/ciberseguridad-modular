@@ -1,6 +1,9 @@
 Errores comunes en redes corporativas que abren la puerta a ataques internos  
 Por Julio César Abreu — El Pergamino Digital
 
+---
+
+
 En muchas organizaciones, la seguridad se centra en firewalls, antivirus y soluciones de perímetro. Sin embargo, la mayoría de los incidentes graves no empiezan en la frontera, sino dentro de la red, aprovechando configuraciones débiles, redes planas y errores que pasan desapercibidos durante años.
 
 Los atacantes internos, o externos que logran entrar, no necesitan explotar vulnerabilidades sofisticadas. Les basta con encontrar un entorno mal segmentado, un switch sin hardening o un puerto configurado por defecto. La seguridad interna no falla por falta de tecnología, sino por falta de criterio arquitectónico.
