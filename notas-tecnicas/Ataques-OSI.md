@@ -47,9 +47,11 @@ Contramedida
 
 Cada ataque debe documentarse con su *capa OSI* y la *propiedad afectada*.  
 Esto convierte el glosario en un mapa vivo:  
-- *Disponibilidad* → ataques de denegación de servicio.  
+ 
 - *Confidencialidad* → sniffing, MitM.  
-- *Integridad* → spoofing, inyección.  
+- *Integridad* → spoofing, inyección.
+- *Disponibilidad* → ataques de denegación de servicio.
+- *Privacidad* → protege los datos personales y sensibles frente a usos indebidos, incluso cuando el acceso es legítimo.
 - *Autenticación* → suplantación de identidad.  
 - *No repudio* → manipulación de logs.
 
