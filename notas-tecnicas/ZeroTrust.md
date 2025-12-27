@@ -16,7 +16,9 @@ Zero Trust aplicado a identidades dinámicas, en un entorno Zero Trust real:
 
 Esto se conoce como autenticación continua (Continuous Authentication), y representa un cambio de paradigma: pasamos de confiar en el “inicio de sesión” a confiar en el comportamiento persistente.
 
+
 ---
+
 
 ¿Qué señales se evalúan en tiempo real?
 
@@ -29,6 +31,9 @@ Esto se conoce como autenticación continua (Continuous Authentication), y repre
 - Tipo de recurso: ¿está accediendo a datos sensibles o a recursos públicos?
 
 - Comportamiento: ¿su navegación y acciones coinciden con su rol habitual?
+
+
+---
   
 
 Estas señales alimentan un motor de riesgo que decide si mantener, degradar o revocar el acceso.
@@ -58,7 +63,9 @@ Un analista de datos accede a un dashboard interno desde su portátil corporativ
 
 Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en acción.
 
+
 ---
+
 
 ¿Cómo se implementa esta arquitectura?
 
@@ -74,7 +81,9 @@ Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en a
 
 - Session Revocation APIs: capacidad de cortar sesiones activas en tiempo real.
 
+
 ---
+
 
 Advertencias:
 
@@ -85,6 +94,9 @@ Advertencias:
 - El riesgo es dinámico: lo que era seguro hace 5 minutos puede no serlo ahora.
 
 - La identidad es el nuevo perímetro: y debe ser monitoreada como un sistema vivo.
+
+
+---
   
 
 Este artículo forma parte de mi proyecto https://pergamino-digital-ciberseguridad.blogspot.com/, donde documento conceptos, laboratorios y arquitecturas defensivas con un enfoque pedagógico y doctrinal.
