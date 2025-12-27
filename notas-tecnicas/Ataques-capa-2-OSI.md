@@ -14,17 +14,19 @@ Aquí se manipula la identidad misma de los dispositivos, se envenenan tablas, s
 
 Porque es la capa donde los dispositivos se reconocen entre sí.  Es el nivel donde se decide:
 
-quién es quién,  
-quién puede hablar con quién,  
-y cómo se mueve el tráfico dentro de un segmento.
+- quién es quién,  
+- quién puede hablar con quién,  
+- y cómo se mueve el tráfico dentro de un segmento.
+
 Si un atacante logra manipular esa identidad, puede:
 
-Redirigir tráfico sin ser detectado  
-Interceptar comunicaciones legítimas  
-Suplantar dispositivos críticos  
-Romper la integridad de la red  
-Preparar ataques más avanzados en capas superiores  
-Desplegar ataques de movimiento lateral sin generar ruido  
+- Redirigir tráfico sin ser detectado  
+- Interceptar comunicaciones legítimas  
+- Suplantar dispositivos críticos  
+- Romper la integridad de la red  
+- Preparar ataques más avanzados en capas superiores  
+- Desplegar ataques de movimiento lateral sin generar ruido  
+
 La Capa 2 es el puente levadizo del castillo:  si alguien lo falsifica, puede entrar sin que nadie lo note.
 
 
