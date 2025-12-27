@@ -3,7 +3,7 @@ Zero Trust no es un login. Es una vigilancia viva
 Muchos creen que implementar Zero Trust es exigir MFA al inicio de sesión. Pero la verdadera madurez comienza cuando dejamos de confiar incluso después de autenticar.
 
 
-Zero Trust aplicado a identidades dinámicas, En un entorno Zero Trust real:
+Zero Trust aplicado a identidades dinámicas, en un entorno Zero Trust real:
 
 
 - La identidad no se valida una sola vez: se revalida constantemente.
