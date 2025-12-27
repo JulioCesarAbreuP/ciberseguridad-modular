@@ -5,11 +5,13 @@ Muchos creen que implementar Zero Trust es exigir MFA al inicio de sesión. Pero
 
 Zero Trust aplicado a identidades dinámicas, En un entorno Zero Trust real:
 
+
 - La identidad no se valida una sola vez: se revalida constantemente.
 
 - El acceso no es binario (permitido/denegado), sino condicional y adaptable.
 
 - Cada acción, cada solicitud, cada cambio de contexto es una oportunidad para reevaluar la confianza.
+- 
 
 Esto se conoce como autenticación continua (Continuous Authentication), y representa un cambio de paradigma: pasamos de confiar en el “inicio de sesión” a confiar en el comportamiento persistente.
 
@@ -26,9 +28,9 @@ Esto se conoce como autenticación continua (Continuous Authentication), y repre
 - Tipo de recurso: ¿está accediendo a datos sensibles o a recursos públicos?
 
 - Comportamiento: ¿su navegación y acciones coinciden con su rol habitual?
+- 
 
 Estas señales alimentan un motor de riesgo que decide si mantener, degradar o revocar el acceso.
-
 
 
 Ejemplo práctico
@@ -51,8 +53,8 @@ Un analista de datos accede a un dashboard interno desde su portátil corporativ
 
 - Bloquea temporalmente el acceso a datos sensibles
 
-Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en acción.
 
+Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en acción.
 
 
 ¿Cómo se implementa esta arquitectura?
@@ -70,7 +72,6 @@ Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en a
 - Session Revocation APIs: capacidad de cortar sesiones activas en tiempo real.
 
 
-
 Advertencias
 
 - Zero Trust ≠ MFA: el MFA es solo el umbral inicial.
@@ -80,6 +81,7 @@ Advertencias
 - El riesgo es dinámico: lo que era seguro hace 5 minutos puede no serlo ahora.
 
 - La identidad es el nuevo perímetro: y debe ser monitoreada como un sistema vivo.
+- 
 
 Este artículo forma parte de mi proyecto https://pergamino-digital-ciberseguridad.blogspot.com/, donde documento conceptos, laboratorios y arquitecturas defensivas con un enfoque pedagógico y doctrinal.
 
