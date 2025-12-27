@@ -42,7 +42,7 @@ La arquitectura de identidad avanzada no solo integra tecnologías, sino que est
 
 Beneficios ampliados:
 
--Resiliencia mejorada: Capacidad para detectar y responder rápidamente a amenazas internas y externas.
+- Resiliencia mejorada: Capacidad para detectar y responder rápidamente a amenazas internas y externas.
 
 - Experiencia de usuario optimizada: Menos fricciones al reducir autenticaciones innecesarias y permitir accesos contextuales.
 
