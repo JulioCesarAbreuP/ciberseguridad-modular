@@ -1,9 +1,9 @@
-🔐 Zero Trust no es un login. Es una vigilancia viva
+Zero Trust no es un login. Es una vigilancia viva
 
 Muchos creen que implementar Zero Trust es exigir MFA al inicio de sesión. Pero la verdadera madurez comienza cuando dejamos de confiar incluso después de autenticar.
 
 
-🧠 Zero Trust aplicado a identidades dinámicas
+Zero Trust aplicado a identidades dinámicas
 
 - En un entorno Zero Trust real:
 
@@ -17,7 +17,7 @@ Esto se conoce como autenticación continua (Continuous Authentication), y repre
 
 
 
-🧩 ¿Qué señales se evalúan en tiempo real?
+¿Qué señales se evalúan en tiempo real?
 
 - Ubicación geográfica: ¿el usuario está donde suele estar?
 
@@ -33,7 +33,7 @@ Estas señales alimentan un motor de riesgo que decide si mantener, degradar o r
 
 
 
-🎯 Ejemplo práctico
+Ejemplo práctico
 
 Un analista de datos accede a un dashboard interno desde su portátil corporativo. Todo parece normal. Pero 20 minutos después:
 
@@ -57,7 +57,7 @@ Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en a
 
 
 
-🛠️ Cómo se implementa esta arquitectura
+¿Cómo se implementa esta arquitectura?
 
 - Risk-Based Access: políticas que adaptan el acceso según el riesgo contextual.
 
@@ -73,7 +73,7 @@ Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en a
 
 
 
-⚠️ Advertencias
+Advertencias
 
 - Zero Trust ≠ MFA: el MFA es solo el umbral inicial.
 
