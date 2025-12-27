@@ -43,7 +43,7 @@ El sistema defensivo responde con:
 
 ---
 
-Contramedida doctrinal
+Contramedida
 
 Cada ataque debe documentarse con su *capa OSI* y la *propiedad afectada*.  
 Esto convierte el glosario en un mapa vivo:  
@@ -55,7 +55,7 @@ Esto convierte el glosario en un mapa vivo:
 
 ---
 
-Analogía medieval
+Analogía 
 
 Imagina el castillo dividido en *siete murallas* (capas OSI).  
 Cada ataque busca una muralla distinta:  
