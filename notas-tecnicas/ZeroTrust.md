@@ -11,7 +11,7 @@ Zero Trust aplicado a identidades dinámicas, en un entorno Zero Trust real:
 - El acceso no es binario (permitido/denegado), sino condicional y adaptable.
 
 - Cada acción, cada solicitud, cada cambio de contexto es una oportunidad para reevaluar la confianza.
-- 
+  
 
 Esto se conoce como autenticación continua (Continuous Authentication), y representa un cambio de paradigma: pasamos de confiar en el “inicio de sesión” a confiar en el comportamiento persistente.
 
@@ -28,7 +28,7 @@ Esto se conoce como autenticación continua (Continuous Authentication), y repre
 - Tipo de recurso: ¿está accediendo a datos sensibles o a recursos públicos?
 
 - Comportamiento: ¿su navegación y acciones coinciden con su rol habitual?
-- 
+  
 
 Estas señales alimentan un motor de riesgo que decide si mantener, degradar o revocar el acceso.
 
@@ -52,6 +52,7 @@ Un analista de datos accede a un dashboard interno desde su portátil corporativ
 - Notifica al equipo de seguridad
 
 - Bloquea temporalmente el acceso a datos sensibles
+
 
 
 Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en acción.
