@@ -16,6 +16,7 @@ Muchos creen que implementar Zero Trust es exigir MFA al inicio de sesión. Pero
 Esto se conoce como autenticación continua (Continuous Authentication), y representa un cambio de paradigma: pasamos de confiar en el “inicio de sesión” a confiar en el comportamiento persistente.
 
 
+
 🧩 ¿Qué señales se evalúan en tiempo real?
 
 - Ubicación geográfica: ¿el usuario está donde suele estar?
@@ -29,6 +30,7 @@ Esto se conoce como autenticación continua (Continuous Authentication), y repre
 - Comportamiento: ¿su navegación y acciones coinciden con su rol habitual?
 
 Estas señales alimentan un motor de riesgo que decide si mantener, degradar o revocar el acceso.
+
 
 
 🎯 Ejemplo práctico
@@ -54,6 +56,7 @@ Un analista de datos accede a un dashboard interno desde su portátil corporativ
 Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en acción.
 
 
+
 🛠️ Cómo se implementa esta arquitectura
 
 - Risk-Based Access: políticas que adaptan el acceso según el riesgo contextual.
@@ -67,6 +70,7 @@ Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en a
 - Just-In-Time Access: privilegios temporales que expiran automáticamente.
 
 - Session Revocation APIs: capacidad de cortar sesiones activas en tiempo real.
+
 
 
 ⚠️ Advertencias
