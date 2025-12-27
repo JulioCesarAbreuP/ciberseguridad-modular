@@ -124,54 +124,51 @@ Las defensas en Capa 2 no son opcionales, son parte del mínimo viable de cualqu
 
 
 - Port Security
-Limita cuántas MAC pueden conectarse a un puerto.  
-
-Evita suplantaciones y accesos no autorizados.
+    Limita cuántas MAC pueden conectarse a un puerto.  
+    Evita suplantaciones y accesos no autorizados.
 
 
 
 - Dynamic ARP Inspection (DAI)
-Valida las respuestas ARP.  
-
-Bloquea ARP poisoning automáticamente.
+    Valida las respuestas ARP.  
+    Bloquea ARP poisoning automáticamente.
 
 
 
 - DHCP Snooping
-Evita servidores DHCP falsos.  
-
-Protege la asignación de IPs y genera una base confiable para DAI.
+    Evita servidores DHCP falsos.  
+    Protege la asignación de IPs y genera una base confiable para DAI.
 
 
 
 - IP Source Guard
-Evita que un dispositivo use una IP que no le corresponde.
+    Evita que un dispositivo use una IP que no le corresponde.
 
 
 
 - NAC (Network Access Control)
-Autentica dispositivos antes de permitirles entrar a la red.  
+    Autentica dispositivos antes de permitirles entrar a la red.  
 
-Controla quién entra, desde dónde y con qué nivel de confianza.
+    Controla quién entra, desde dónde y con qué nivel de confianza.
 
 
 
 - Segmentación y VLANs
-Reduce el alcance de un ataque.  
+    Reduce el alcance de un ataque.  
 
-Evita que un atacante se mueva libremente.
+    Evita que un atacante se mueva libremente.
 
 
 
 - 802.1X + EAP
-Autenticación fuerte a nivel de puerto.  
+    Autenticación fuerte a nivel de puerto.  
 
-Ideal para entornos corporativos y redes sensibles.
+    Ideal para entornos corporativos y redes sensibles.
 
 
 
 - Hardening de puertos troncales
-Evita VLAN hopping y manipulación de tramas.
+    Evita VLAN hopping y manipulación de tramas.
 
 
 
