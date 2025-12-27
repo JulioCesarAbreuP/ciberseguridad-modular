@@ -1,11 +1,11 @@
-Ataques en capa OSI y contramedidas modernas
+**Ataques en capa OSI y contramedidas modernas**
 
 Muchos manuales hablan de ataques sin ubicar *dónde actúan en el modelo OSI*.  
 Pero para un arquitecto de seguridad, saber la *capa exacta* y la *propiedad afectada* (confidencialidad, integridad, disponibilidad, autenticación, no repudio) es esencial.
 
 
 
- Clasificación doctrinal
+ Clasificación:
 
   - *Capa 2 (Enlace de datos)*  
   - *Ataque:* MAC spoofing, ARP poisoning  
