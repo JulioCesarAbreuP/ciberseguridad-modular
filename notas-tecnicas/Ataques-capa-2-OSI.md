@@ -12,7 +12,7 @@ Aquí se manipula la identidad misma de los dispositivos, se envenenan tablas, s
 
 ¿Por qué es tan crítica la Capa 2?
 
-Porque es la capa donde los dispositivos se reconocen entre sí.  Es el nivel donde se decide:
+Porque es la capa donde los dispositivos se reconocen entre sí, es el nivel donde se decide:
 
 - quién es quién,  
 - quién puede hablar con quién,  
@@ -25,10 +25,10 @@ Si un atacante logra manipular esa identidad, puede:
 - Suplantar dispositivos críticos  
 - Romper la integridad de la red  
 - Preparar ataques más avanzados en capas superiores  
-- Desplegar ataques de movimiento lateral sin generar ruido  
+- Desplegar ataques de movimiento lateral sin generar ruido
+- 
 
 La Capa 2 es el puente levadizo del castillo:  si alguien lo falsifica, puede entrar sin que nadie lo note.
-
 
 
 Ataques comunes en la Capa 2
@@ -41,80 +41,80 @@ El atacante cambia su dirección MAC para hacerse pasar por otro dispositivo leg
 
 Esto permite:
 
-Evadir controles de acceso  
-Interceptar tráfico destinado a otro equipo  
-Acceder a VLANs restringidas  
-Saltar políticas basadas en identidad de dispositivo  
+- Evadir controles de acceso  
+- Interceptar tráfico destinado a otro equipo  
+- Acceder a VLANs restringidas  
+- Saltar políticas basadas en identidad de dispositivo  
 
 
 En entornos corporativos, este ataque puede comprometer:
 
-impresoras,  
-teléfonos VoIP,  
-cámaras IP,  
-o incluso switches de acceso.
+- impresoras,  
+- teléfonos VoIP,  
+- cámaras IP,  
+- o incluso switches de acceso.
 
 
 2. ARP Poisoning (Envenenamiento ARP)
 
-El atacante envía respuestas ARP falsas para asociar su MAC con la IP de otro equipo.
+- El atacante envía respuestas ARP falsas para asociar su MAC con la IP de otro equipo.
 
 
 
 Consecuencias:
 
-Intercepción de tráfico (Man-in-the-Middle)  
-Redirección maliciosa  
-Pérdida de integridad  
-Robo de credenciales  
-Manipulación de sesiones  
+- Intercepción de tráfico (Man-in-the-Middle)  
+- Redirección maliciosa  
+- Pérdida de integridad  
+- Robo de credenciales  
+- Manipulación de sesiones  
 
 
 Este ataque es especialmente peligroso porque:
 
-No requiere privilegios elevados  
-No genera logs en la mayoría de sistemas  
-Funciona en redes planas o mal segmentadas  
+- No requiere privilegios elevados  
+- No genera logs en la mayoría de sistemas  
+- Funciona en redes planas o mal segmentadas  
 
 
 3. CAM Table Overflow
 
-El atacante satura la tabla CAM del switch con direcciones MAC falsas haciendolo comportar como un hub.
+- El atacante satura la tabla CAM del switch con direcciones MAC falsas haciendolo comportar como un hub.
 
 
 
 Cuando la tabla se llena:
 
-El switch deja de comportarse como switch  
-Empieza a difundir tráfico como un hub  
-El atacante puede capturar paquetes de otros dispositivos  
+- El switch deja de comportarse como switch  
+- Empieza a difundir tráfico como un hub  
+- El atacante puede capturar paquetes de otros dispositivos  
 
 
 Este ataque es ideal para:
 
-Capturar tráfico sensible  
-Preparar ataques posteriores  
-Romper la confidencialidad de la red  
+- Capturar tráfico sensible  
+- Preparar ataques posteriores  
+- Romper la confidencialidad de la red  
 
 
 4. VLAN Hopping
 
-El atacante manipula tramas 802.1Q para saltar entre VLANs.
+- El atacante manipula tramas 802.1Q para saltar entre VLANs.
 
 
 
 Esto permite:
 
-Acceder a segmentos aislados  
-Alcanzar servidores o dispositivos críticos  
-Evadir segmentación lógica  
+- Acceder a segmentos aislados  
+- Alcanzar servidores o dispositivos críticos  
+- Evadir segmentación lógica  
 
 
 Es un ataque especialmente peligroso en redes donde:
 
-Se usan VLANs para separar entornos  
-No hay hardening en los puertos troncales  
-No se aplican políticas de aislamiento estrictas  
+- Se usan VLANs para separar entornos  
+- No hay hardening en los puertos troncales  
+- No se aplican políticas de aislamiento estrictas  
 
 
 Contramedidas modernas
