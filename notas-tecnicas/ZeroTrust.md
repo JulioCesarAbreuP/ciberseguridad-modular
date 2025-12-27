@@ -83,4 +83,8 @@ Advertencias
 
 - La identidad es el nuevo perímetro: y debe ser monitoreada como un sistema vivo.
 
+Este artículo forma parte de mi proyecto https://pergamino-digital-ciberseguridad.blogspot.com/, donde documento conceptos, laboratorios y arquitecturas defensivas con un enfoque pedagógico y doctrinal.
+
+Si tienes sugerencias, críticas o ideas para mejorar este contenido, estaré encantado de escucharlas.
+
 
