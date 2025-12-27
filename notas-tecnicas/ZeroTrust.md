@@ -1,5 +1,10 @@
 Zero Trust no es un login. Es una vigilancia viva
+
 Por Julio César Abreu — El Pergamino Digital
+
+
+---
+
 
 Muchos creen que implementar Zero Trust es exigir MFA al inicio de sesión. Pero la verdadera madurez comienza cuando dejamos de confiar incluso después de autenticar.
 
