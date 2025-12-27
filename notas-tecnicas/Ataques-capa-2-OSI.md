@@ -2,7 +2,7 @@ Ataques en la capa 2 del modelo OSI y sus contramedidas modernas
 
 
 
-La Capa 2 del modelo OSI —Enlace de Datos— es uno de los territorios más críticos y, paradójicamente, más ignorados en ciberseguridad. Mientras muchos profesionales centran su atención en firewalls, cifrado o vulnerabilidades de aplicaciones, la Capa 2 permanece como un campo de batalla silencioso donde se libran ataques que pueden comprometer toda la arquitectura de red sin generar alertas visibles.
+La capa 2 del modelo OSI —Enlace de Datos— es uno de los territorios más críticos y, paradójicamente, más ignorados en ciberseguridad. Mientras muchos profesionales centran su atención en firewalls, cifrado o vulnerabilidades de aplicaciones, la Capa 2 permanece como un campo de batalla silencioso donde se libran ataques que pueden comprometer toda la arquitectura de red sin generar alertas visibles.
 
 Aquí no se explotan CVEs ni se fuerzan contraseñas.  
 
