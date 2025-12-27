@@ -55,6 +55,7 @@ En entornos corporativos, este ataque puede comprometer:
 - o incluso switches de acceso.
 
 
+
 2. ARP Poisoning (Envenenamiento ARP)
 
 - El atacante envía respuestas ARP falsas para asociar su MAC con la IP de otro equipo.
@@ -77,6 +78,7 @@ Este ataque es especialmente peligroso porque:
 - Funciona en redes planas o mal segmentadas  
 
 
+
 3. CAM Table Overflow
 
 - El atacante satura la tabla CAM del switch con direcciones MAC falsas haciendolo comportar como un hub.
@@ -95,6 +97,7 @@ Este ataque es ideal para:
 - Capturar tráfico sensible  
 - Preparar ataques posteriores  
 - Romper la confidencialidad de la red  
+
 
 
 4. VLAN Hopping
