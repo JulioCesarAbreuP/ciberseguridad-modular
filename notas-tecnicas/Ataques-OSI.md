@@ -63,7 +63,7 @@ Cada ataque busca una muralla distinta:
 - En la muralla media (capa 4), lanza piedras sin parar (flood).  
 - En la muralla alta (capa 7), intenta engañar al escriba con pergaminos falsos (SQL Injection).  
 
-La defensa debe ser *estratificada y coordinada*.
+La defensa debe ser *estratificada y coordinada*, **sobre Defense in Deepth hablaremos en un capítulo posterior.**
 
 ---
 
