@@ -1,4 +1,5 @@
 Zero Trust no es un login. Es una vigilancia viva
+Por Julio César Abreu — El Pergamino Digital
 
 Muchos creen que implementar Zero Trust es exigir MFA al inicio de sesión. Pero la verdadera madurez comienza cuando dejamos de confiar incluso después de autenticar.
 
@@ -15,7 +16,7 @@ Zero Trust aplicado a identidades dinámicas, en un entorno Zero Trust real:
 
 Esto se conoce como autenticación continua (Continuous Authentication), y representa un cambio de paradigma: pasamos de confiar en el “inicio de sesión” a confiar en el comportamiento persistente.
 
-
+---
 
 ¿Qué señales se evalúan en tiempo real?
 
@@ -57,6 +58,7 @@ Un analista de datos accede a un dashboard interno desde su portátil corporativ
 
 Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en acción.
 
+---
 
 ¿Cómo se implementa esta arquitectura?
 
@@ -72,6 +74,7 @@ Esto no es ciencia ficción. Es Identity Threat Detection & Response (ITDR) en a
 
 - Session Revocation APIs: capacidad de cortar sesiones activas en tiempo real.
 
+---
 
 Advertencias:
 
